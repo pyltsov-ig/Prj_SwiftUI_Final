@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "logo-bentley.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
